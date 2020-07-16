@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+.header{
+    background-color: royalblue;
+}
+fieldset{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 40px;
+    border: 1px solid #666;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #666;
+}
+legend{
+    background-color: yellow;
+    padding:20px;
+}
+table{
+    border: 1px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 5px;
+}
